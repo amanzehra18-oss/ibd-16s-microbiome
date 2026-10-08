@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<graph id="87" label="Broader microbe-pathway network (95 associations, FDR &amp;lt; 0.05)" cy:view="0" cy:registered="0" cy:documentVersion="3.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cy="http://www.cytoscape.org" xmlns="http://www.cs.rpi.edu/XGMML">
+  <att>
+    <graph id="128" label="Broader microbe-pathway network (95 associations, FDR &amp;lt; 0.05)" cy:registered="1">
+      <node id="421" label="Thomasclavelia"/>
+      <node id="417" label="Lachnospiraceae UCG-003"/>
+      <node id="413" label="Dialister"/>
+      <node id="409" label="Coriobacteriaceae UCG-003"/>
+      <node id="405" label="[Eubacterium] ventriosum group"/>
+      <node id="401" label="[Eubacterium] siraeum group"/>
+      <node id="397" label="[Eubacterium] brachy group"/>
+      <node id="393" label="Weissella"/>
+      <node id="389" label="Ruminococcus"/>
+      <node id="385" label="Raoultibacter"/>
+      <node id="381" label="Peptococcus"/>
+      <node id="377" label="Megamonas"/>
+      <node id="373" label="Massiliprevotella"/>
+      <node id="369" label="Klebsiella"/>
+      <node id="365" label="Gemella"/>
+      <node id="361" label="Faecalibacterium"/>
+      <node id="357" label="Enteroscipio"/>
+      <node id="353" label="Eggerthella"/>
+      <node id="349" label="Coprobacillus"/>
+      <node id="345" label="Collinsella"/>
+      <node id="341" label="Christensenellaceae R-7 group"/>
+      <node id="337" label="Candidatus Soleaferrea"/>
+      <node id="333" label="Blautia"/>
+      <node id="329" label="Barnesiella"/>
+      <node id="325" label="Asaccharobacter"/>
+      <node id="321" label="Anaerotignum"/>
+      <node id="317" label="Anaerobutyricum"/>
+      <node id="313" label="Alistipes"/>
+      <node id="309" label="Akkermansia"/>
+      <node id="305" label="Acutalibacter"/>
+      <node id="301" label="Acinetobacter"/>
+      <node id="297" label="Lachnospiraceae UCG-010"/>
+      <node id="293" label="Sellimonas"/>
+      <node id="289" label="Acetanaerobacterium"/>
+      <node id="285" label="[Eubacterium] eligens group"/>
+      <node id="281" label="Hungatella"/>
+      <node id="277" label="Haemophilus"/>
+      <node id="273" label="Holdemania"/>
+      <node id="269" label="Lachnospira"/>
+      <node id="265" label="Paeniclostridium"/>
+      <node id="261" label="Anaerostipes"/>
+      <node id="257" label="DTU089"/>
+      <node id="253" label="[Clostridium] innocuum group"/>
+      <node id="249" label="Agathobaculum"/>
+      <node id="245" label="Oscillospira"/>
+      <node id="241" label="Dorea"/>
+      <node id="237" label="Flavonifractor"/>
+      <node id="233" label="Pseudobutyrivibrio"/>
+      <node id="229" label="Phocea"/>
+      <node id="225" label="Colidextribacter"/>
+      <node id="221" label="Veillonella"/>
+      <node id="217" label="Streptococcus"/>
+      <node id="213" label="Faecalicatena"/>
+      <node id="209" label="Monoglobus"/>
+      <node id="205" label="Bacteroides"/>
+      <node id="201" label="Enterocloster"/>
+      <node id="197" label="Fusicatenibacter"/>
+      <node id="193" label="ASF356"/>
+      <node id="189" label="Roseburia"/>
+      <node id="185" label="[Ruminococcus] gnavus group"/>
+      <node id="181" label="Bifidobacterium"/>
+      <node id="177" label="Sutterella"/>
+      <node id="173" label="Escherichia-Shigella"/>
+      <node id="169" label="Peptidoglycan biosynthesis"/>
+      <node id="156" label="LPS biosynthesis"/>
+      <edge id="762" label="Thomasclavelia (interacts with) Peptidoglycan biosynthesis" source="421" target="169" cy:directed="0"/>
+      <edge id="658" label="Lachnospiraceae UCG-003 (interacts with) Peptidoglycan biosynthesis" source="417" target="169" cy:directed="0"/>
+      <edge id="554" label="Dialister (interacts with) Peptidoglycan biosynthesis" source="413" target="169" cy:directed="0"/>
+      <edge id="542" label="Coriobacteriaceae UCG-003 (interacts with) Peptidoglycan biosynthesis" source="409" target="169" cy:directed="0"/>
+      <edge id="802" label="[Eubacterium] ventriosum group (interacts with) LPS biosynthesis" source="405" target="156" cy:directed="0"/>
+      <edge id="798" label="[Eubacterium] siraeum group (interacts with) LPS biosynthesis" source="401" target="156" cy:directed="0"/>
+      <edge id="786" label="[Eubacterium] brachy group (interacts with) LPS biosynthesis" source="397" target="156" cy:directed="0"/>
+      <edge id="774" label="Weissella (interacts with) LPS biosynthesis" source="393" target="156" cy:directed="0"/>
+      <edge id="734" label="Ruminococcus (interacts with) LPS biosynthesis" source="389" target="156" cy:directed="0"/>
+      <edge id="722" label="Raoultibacter (interacts with) LPS biosynthesis" source="385" target="156" cy:directed="0"/>
+      <edge id="702" label="Peptococcus (interacts with) LPS biosynthesis" source="381" target="156" cy:directed="0"/>
+      <edge id="674" label="Megamonas (interacts with) LPS biosynthesis" source="377" target="156" cy:directed="0"/>
+      <edge id="670" label="Massiliprevotella (interacts with) LPS biosynthesis" source="373" target="156" cy:directed="0"/>
+      <edge id="646" label="Klebsiella (interacts with) LPS biosynthesis" source="369" target="156" cy:directed="0"/>
+      <edge id="618" label="Gemella (interacts with) LPS biosynthesis" source="365" target="156" cy:directed="0"/>
+      <edge id="590" label="Faecalibacterium (interacts with) LPS biosynthesis" source="361" target="156" cy:directed="0"/>
+      <edge id="578" label="Enteroscipio (interacts with) LPS biosynthesis" source="357" target="156" cy:directed="0"/>
+      <edge id="566" label="Eggerthella (interacts with) LPS biosynthesis" source="353" target="156" cy:directed="0"/>
+      <edge id="538" label="Coprobacillus (interacts with) LPS biosynthesis" source="349" target="156" cy:directed="0"/>
+      <edge id="534" label="Collinsella (interacts with) LPS biosynthesis" source="345" target="156" cy:directed="0"/>
+      <edge id="522" label="Christensenellaceae R-7 group (interacts with) LPS biosynthesis" source="341" target="156" cy:directed="0"/>
+      <edge id="518" label="Candidatus Soleaferrea (interacts with) LPS biosynthesis" source="337" target="156" cy:directed="0"/>
+      <edge id="514" label="Blautia (interacts with) LPS biosynthesis" source="333" target="156" cy:directed="0"/>
+      <edge id="502" label="Barnesiella (interacts with) LPS biosynthesis" source="329" target="156" cy:directed="0"/>
+      <edge id="490" label="Asaccharobacter (interacts with) LPS biosynthesis" source="325" target="156" cy:directed="0"/>
+      <edge id="486" label="Anaerotignum (interacts with) LPS biosynthesis" source="321" target="156" cy:directed="0"/>
+      <edge id="474" label="Anaerobutyricum (interacts with) LPS biosynthesis" source="317" target="156" cy:directed="0"/>
+      <edge id="470" label="Alistipes (interacts with) LPS biosynthesis" source="313" target="156" cy:directed="0"/>
+      <edge id="466" label="Akkermansia (interacts with) LPS biosynthesis" source="309" target="156" cy:directed="0"/>
+      <edge id="454" label="Acutalibacter (interacts with) LPS biosynthesis" source="305" target="156" cy:directed="0"/>
+      <edge id="450" label="Acinetobacter (interacts with) LPS biosynthesis" source="301" target="156" cy:directed="0"/>
+      <edge id="666" label="Lachnospiraceae UCG-010 (interacts with) Peptidoglycan biosynthesis" source="297" target="169" cy:directed="0"/>
+      <edge id="662" label="Lachnospiraceae UCG-010 (interacts with) LPS biosynthesis" source="297" target="156" cy:directed="0"/>
+      <edge id="742" label="Sellimonas (interacts with) Peptidoglycan biosynthesis" source="293" target="169" cy:directed="0"/>
+      <edge id="738" label="Sellimonas (interacts with) LPS biosynthesis" source="293" target="156" cy:directed="0"/>
+      <edge id="446" label="Acetanaerobacterium (interacts with) Peptidoglycan biosynthesis" source="289" target="169" cy:directed="0"/>
+      <edge id="442" label="Acetanaerobacterium (interacts with) LPS biosynthesis" source="289" target="156" cy:directed="0"/>
+      <edge id="794" label="[Eubacterium] eligens group (interacts with) Peptidoglycan biosynthesis" source="285" target="169" cy:directed="0"/>
+      <edge id="790" label="[Eubacterium] eligens group (interacts with) LPS biosynthesis" source="285" target="156" cy:directed="0"/>
+      <edge id="642" label="Hungatella (interacts with) Peptidoglycan biosynthesis" source="281" target="169" cy:directed="0"/>
+      <edge id="638" label="Hungatella (interacts with) LPS biosynthesis" source="281" target="156" cy:directed="0"/>
+      <edge id="626" label="Haemophilus (interacts with) Peptidoglycan biosynthesis" source="277" target="169" cy:directed="0"/>
+      <edge id="622" label="Haemophilus (interacts with) LPS biosynthesis" source="277" target="156" cy:directed="0"/>
+      <edge id="634" label="Holdemania (interacts with) Peptidoglycan biosynthesis" source="273" target="169" cy:directed="0"/>
+      <edge id="630" label="Holdemania (interacts with) LPS biosynthesis" source="273" target="156" cy:directed="0"/>
+      <edge id="654" label="Lachnospira (interacts with) Peptidoglycan biosynthesis" source="269" target="169" cy:directed="0"/>
+      <edge id="650" label="Lachnospira (interacts with) LPS biosynthesis" source="269" target="156" cy:directed="0"/>
+      <edge id="698" label="Paeniclostridium (interacts with) Peptidoglycan biosynthesis" source="265" target="169" cy:directed="0"/>
+      <edge id="694" label="Paeniclostridium (interacts with) LPS biosynthesis" source="265" target="156" cy:directed="0"/>
+      <edge id="482" label="Anaerostipes (interacts with) Peptidoglycan biosynthesis" source="261" target="169" cy:directed="0"/>
+      <edge id="478" label="Anaerostipes (interacts with) LPS biosynthesis" source="261" target="156" cy:directed="0"/>
+      <edge id="550" label="DTU089 (interacts with) Peptidoglycan biosynthesis" source="257" target="169" cy:directed="0"/>
+      <edge id="546" label="DTU089 (interacts with) LPS biosynthesis" source="257" target="156" cy:directed="0"/>
+      <edge id="782" label="[Clostridium] innocuum group (interacts with) Peptidoglycan biosynthesis" source="253" target="169" cy:directed="0"/>
+      <edge id="778" label="[Clostridium] innocuum group (interacts with) LPS biosynthesis" source="253" target="156" cy:directed="0"/>
+      <edge id="462" label="Agathobaculum (interacts with) Peptidoglycan biosynthesis" source="249" target="169" cy:directed="0"/>
+      <edge id="458" label="Agathobaculum (interacts with) LPS biosynthesis" source="249" target="156" cy:directed="0"/>
+      <edge id="690" label="Oscillospira (interacts with) Peptidoglycan biosynthesis" source="245" target="169" cy:directed="0"/>
+      <edge id="686" label="Oscillospira (interacts with) LPS biosynthesis" source="245" target="156" cy:directed="0"/>
+      <edge id="562" label="Dorea (interacts with) Peptidoglycan biosynthesis" source="241" target="169" cy:directed="0"/>
+      <edge id="558" label="Dorea (interacts with) LPS biosynthesis" source="241" target="156" cy:directed="0"/>
+      <edge id="606" label="Flavonifractor (interacts with) Peptidoglycan biosynthesis" source="237" target="169" cy:directed="0"/>
+      <edge id="602" label="Flavonifractor (interacts with) LPS biosynthesis" source="237" target="156" cy:directed="0"/>
+      <edge id="718" label="Pseudobutyrivibrio (interacts with) Peptidoglycan biosynthesis" source="233" target="169" cy:directed="0"/>
+      <edge id="714" label="Pseudobutyrivibrio (interacts with) LPS biosynthesis" source="233" target="156" cy:directed="0"/>
+      <edge id="710" label="Phocea (interacts with) Peptidoglycan biosynthesis" source="229" target="169" cy:directed="0"/>
+      <edge id="706" label="Phocea (interacts with) LPS biosynthesis" source="229" target="156" cy:directed="0"/>
+      <edge id="530" label="Colidextribacter (interacts with) Peptidoglycan biosynthesis" source="225" target="169" cy:directed="0"/>
+      <edge id="526" label="Colidextribacter (interacts with) LPS biosynthesis" source="225" target="156" cy:directed="0"/>
+      <edge id="770" label="Veillonella (interacts with) Peptidoglycan biosynthesis" source="221" target="169" cy:directed="0"/>
+      <edge id="766" label="Veillonella (interacts with) LPS biosynthesis" source="221" target="156" cy:directed="0"/>
+      <edge id="750" label="Streptococcus (interacts with) Peptidoglycan biosynthesis" source="217" target="169" cy:directed="0"/>
+      <edge id="746" label="Streptococcus (interacts with) LPS biosynthesis" source="217" target="156" cy:directed="0"/>
+      <edge id="598" label="Faecalicatena (interacts with) Peptidoglycan biosynthesis" source="213" target="169" cy:directed="0"/>
+      <edge id="594" label="Faecalicatena (interacts with) LPS biosynthesis" source="213" target="156" cy:directed="0"/>
+      <edge id="682" label="Monoglobus (interacts with) Peptidoglycan biosynthesis" source="209" target="169" cy:directed="0"/>
+      <edge id="678" label="Monoglobus (interacts with) LPS biosynthesis" source="209" target="156" cy:directed="0"/>
+      <edge id="498" label="Bacteroides (interacts with) Peptidoglycan biosynthesis" source="205" target="169" cy:directed="0"/>
+      <edge id="494" label="Bacteroides (interacts with) LPS biosynthesis" source="205" target="156" cy:directed="0"/>
+      <edge id="574" label="Enterocloster (interacts with) Peptidoglycan biosynthesis" source="201" target="169" cy:directed="0"/>
+      <edge id="570" label="Enterocloster (interacts with) LPS biosynthesis" source="201" target="156" cy:directed="0"/>
+      <edge id="614" label="Fusicatenibacter (interacts with) Peptidoglycan biosynthesis" source="197" target="169" cy:directed="0"/>
+      <edge id="610" label="Fusicatenibacter (interacts with) LPS biosynthesis" source="197" target="156" cy:directed="0"/>
+      <edge id="438" label="ASF356 (interacts with) Peptidoglycan biosynthesis" source="193" target="169" cy:directed="0"/>
+      <edge id="425" label="ASF356 (interacts with) LPS biosynthesis" source="193" target="156" cy:directed="0"/>
+      <edge id="730" label="Roseburia (interacts with) Peptidoglycan biosynthesis" source="189" target="169" cy:directed="0"/>
+      <edge id="726" label="Roseburia (interacts with) LPS biosynthesis" source="189" target="156" cy:directed="0"/>
+      <edge id="810" label="[Ruminococcus] gnavus group (interacts with) Peptidoglycan biosynthesis" source="185" target="169" cy:directed="0"/>
+      <edge id="806" label="[Ruminococcus] gnavus group (interacts with) LPS biosynthesis" source="185" target="156" cy:directed="0"/>
+      <edge id="510" label="Bifidobacterium (interacts with) Peptidoglycan biosynthesis" source="181" target="169" cy:directed="0"/>
+      <edge id="506" label="Bifidobacterium (interacts with) LPS biosynthesis" source="181" target="156" cy:directed="0"/>
+      <edge id="758" label="Sutterella (interacts with) Peptidoglycan biosynthesis" source="177" target="169" cy:directed="0"/>
+      <edge id="754" label="Sutterella (interacts with) LPS biosynthesis" source="177" target="156" cy:directed="0"/>
+      <edge id="586" label="Escherichia-Shigella (interacts with) Peptidoglycan biosynthesis" source="173" target="169" cy:directed="0"/>
+      <edge id="582" label="Escherichia-Shigella (interacts with) LPS biosynthesis" source="173" target="156" cy:directed="0"/>
+    </graph>
+  </att>
+</graph>
