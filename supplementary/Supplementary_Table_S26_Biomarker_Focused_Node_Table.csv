@@ -1,0 +1,44 @@
+Node,Category,ML_Importance,Network_Degree,Node_Size_Metric,Direction_in_IBD
+ASF356,Microbe,,2,2.0,Lower in IBD
+LPS biosynthesis,Pathway,,35,35.0,
+Peptidoglycan biosynthesis,Pathway,,32,32.0,
+Anaerostipes,Microbe,0.0086224122476017,2,2.0,Lower in IBD
+Anaerotignum,Microbe,,1,1.0,Lower in IBD
+Bacteroides,Microbe,0.0209157755870185,2,2.0,Lower in IBD
+Bifidobacterium,Candidate biomarker,0.0485495585479431,2,2.0,Lower in IBD
+Colidextribacter,Microbe,,2,2.0,Lower in IBD
+Coriobacteriaceae UCG-003,Microbe,,1,1.0,Lower in IBD
+DTU089,Microbe,,2,2.0,Lower in IBD
+Dialister,Microbe,,1,1.0,Lower in IBD
+Dorea,Microbe,0.00894333450729,2,2.0,Lower in IBD
+Eggerthella,Microbe,,1,1.0,Lower in IBD
+Enterocloster,Microbe,,2,2.0,Lower in IBD
+Escherichia-Shigella,Microbe,,2,2.0,Lower in IBD
+Faecalibacterium,Microbe,0.0021318889158788,1,1.0,Lower in IBD
+Faecalicatena,Microbe,,2,2.0,Lower in IBD
+Flavonifractor,Candidate biomarker,0.0358233031971593,2,2.0,Lower in IBD
+Fusicatenibacter,Microbe,,2,2.0,Lower in IBD
+Haemophilus,Microbe,0.0083109592000116,2,2.0,Lower in IBD
+Holdemania,Microbe,0.0106241730030577,2,2.0,Lower in IBD
+Klebsiella,Microbe,,1,1.0,Lower in IBD
+Lachnospira,Microbe,0.0013856694623901,2,2.0,Lower in IBD
+Lachnospiraceae UCG-003,Microbe,,1,1.0,Lower in IBD
+Lachnospiraceae UCG-010,Microbe,,2,2.0,Lower in IBD
+Massiliprevotella,Microbe,,1,1.0,Lower in IBD
+Monoglobus,Microbe,,2,2.0,Lower in IBD
+Oscillospira,Microbe,,2,2.0,Lower in IBD
+Paeniclostridium,Microbe,,2,2.0,Lower in IBD
+Phocea,Microbe,,2,2.0,Lower in IBD
+Pseudobutyrivibrio,Microbe,,2,2.0,Lower in IBD
+Raoultibacter,Microbe,0.0026308475045097,1,1.0,Lower in IBD
+Roseburia,Microbe,,2,2.0,Lower in IBD
+Sellimonas,Candidate biomarker,0.0686987402033146,2,2.0,Lower in IBD
+Sutterella,Microbe,,2,2.0,Lower in IBD
+Thomasclavelia,Microbe,0.00024,1,1.0,Lower in IBD
+Veillonella,Microbe,0.0023763503163503,2,2.0,Lower in IBD
+[Clostridium] innocuum group,Microbe,,2,2.0,Lower in IBD
+[Eubacterium] eligens group,Microbe,,2,2.0,Lower in IBD
+[Eubacterium] ventriosum group,Microbe,,1,1.0,Lower in IBD
+[Ruminococcus] gnavus group,Microbe,,2,2.0,Lower in IBD
+Segatella,Candidate biomarker,0.0737574876371351,0,0.0,Higher in IBD
+Paludicola,Candidate biomarker,0.0509912194228746,0,0.0,Lower in IBD

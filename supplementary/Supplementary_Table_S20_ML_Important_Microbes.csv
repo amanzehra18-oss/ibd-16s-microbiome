@@ -1,0 +1,60 @@
+Genus,log2FoldChange,pvalue,padj,DESeq2_significant,ML_important,Rank,Mean_Importance,Functional_association,Evidence_score,Priority
+Sellimonas,-8.120742901,6.97e-07,4.33e-06,Yes,Yes,4.0,0.0686987402033146,Yes,3,High
+Bifidobacterium,-4.481722551,0.007562215,0.024117335,Yes,Yes,7.0,0.0485495585479431,Yes,3,High
+Flavonifractor,-5.803911867,5.5e-05,0.000282124,Yes,Yes,9.0,0.0358233031971593,Yes,3,High
+Segatella,24.53609379,9.37e-17,1.84e-15,Yes,Yes,3.0,0.0737574876371351,No,2,Moderate
+Paludicola,-6.098071365,0.006035052,0.020346748,Yes,Yes,6.0,0.0509912194228746,No,2,Moderate
+Acutalibacter,-2.913029847,0.040620266,0.085781328,No,No,12.0,0.0288100516411987,Yes,1,Low
+Bacteroides,-4.336166483,0.015031064,0.04031058,Yes,No,15.0,0.0209157755870185,Yes,2,Moderate
+Holdemania,-4.946990534,0.000221563,0.001080363,Yes,No,22.0,0.0106241730030577,Yes,2,Moderate
+Ruminococcus,-3.596601944,0.02752827,0.062467997,No,No,23.0,0.0100695040131749,Yes,1,Low
+Hungatella,-3.712005305,0.040470913,0.085781328,No,No,26.0,0.0090181668453396,Yes,1,Low
+Dorea,-10.82338783,3.82e-13,3.47e-12,Yes,No,27.0,0.00894333450729,Yes,2,Moderate
+Anaerostipes,-3.768466641,0.013688717,0.038856006,Yes,No,28.0,0.0086224122476017,Yes,2,Moderate
+Haemophilus,-6.00333932,0.001147167,0.004667781,Yes,No,29.0,0.0083109592000116,Yes,2,Moderate
+Acidaminococcus,-24.95474715,1.7e-26,1.0099999999999999e-24,Yes,No,33.0,0.0065616672379555,No,1,Low
+Coprobacter,-5.866834332,0.006306438,0.020671101,Yes,No,34.0,0.0064272821819469,No,1,Low
+Coprococcus,22.60275195,2.07e-14,2.72e-13,Yes,No,36.0,0.0051163853643964,No,1,Low
+Raoultibacter,-6.117086304,0.0021002,0.007744488,Yes,No,49.0,0.0026308475045097,Yes,2,Moderate
+Veillonella,-4.017182399,0.018887047,0.046430656,Yes,No,50.0,0.0023763503163503,Yes,2,Moderate
+Faecalibacterium,-4.106348628,0.020452421,0.049252768,Yes,No,51.0,0.0021318889158788,Yes,2,Moderate
+Ligilactobacillus,-8.572637514,0.001987148,0.007563982,Yes,No,55.0,0.001810137745416,No,1,Low
+Lachnospira,-4.565495268,0.013942317,0.038856006,Yes,No,58.0,0.0013856694623901,Yes,2,Moderate
+Thomasclavelia,-5.009133359,0.009969483,0.029536529,Yes,No,68.0,0.00024,Yes,2,Moderate
+Dialister,-26.67262049,1.39e-29,1.6300000000000002e-27,Yes,No,,,Yes,2,Moderate
+Massiliprevotella,-25.59254155,7.529999999999999e-23,2.9600000000000004e-21,Yes,No,,,Yes,2,Moderate
+Macellibacteroides,-23.9529295,1.32e-21,3.91e-20,Yes,No,,,No,1,Low
+Pseudobutyrivibrio,-12.57685551,1.72e-20,4.07e-19,Yes,No,,,Yes,2,Moderate
+Faecalicatena,-9.855326824,3.03e-16,5.11e-15,Yes,No,,,Yes,2,Moderate
+Subdoligranulum,23.54439824,1.56e-15,2.29e-14,Yes,No,,,No,1,Low
+Sutterella,-9.761589554,4.41e-14,5.21e-13,Yes,No,,,Yes,2,Moderate
+Unclassified,5.230432695,1.16e-13,1.24e-12,Yes,No,,,No,1,Low
+Escherichia-Shigella,-9.561368833,2.74e-13,2.69e-12,Yes,No,,,Yes,2,Moderate
+Anaerotignum,-8.878926878,3.12e-08,2.63e-07,Yes,No,,,Yes,2,Moderate
+[Ruminococcus] gnavus group,-7.134570922,3.64e-08,2.86e-07,Yes,No,,,Yes,2,Moderate
+[Clostridium] innocuum group,-7.223668834,4.06e-08,3e-07,Yes,No,,,Yes,2,Moderate
+ASF356,-6.460345542,1.17e-07,8.12e-07,Yes,No,,,Yes,2,Moderate
+Paeniclostridium,-7.664911213,4.99e-07,3.27e-06,Yes,No,,,Yes,2,Moderate
+Lachnospiraceae UCG-003,-9.602137475,4.27e-06,2.52e-05,Yes,No,,,Yes,2,Moderate
+Oscillospira,-5.987251949,1.32e-05,7.41e-05,Yes,No,,,Yes,2,Moderate
+[Eubacterium] eligens group,-6.991976259,2.29e-05,0.000122825,Yes,No,,,Yes,2,Moderate
+Colidextribacter,-5.389579872,0.00022889,0.001080363,Yes,No,,,Yes,2,Moderate
+Monoglobus,-4.910829799,0.000361445,0.001640403,Yes,No,,,Yes,2,Moderate
+Roseburia,-5.702805792,0.00043794,0.001913961,Yes,No,,,Yes,2,Moderate
+Phocea,-5.367051269,0.000837479,0.003529377,Yes,No,,,Yes,2,Moderate
+Klebsiella,-6.327848102,0.001653999,0.006505729,Yes,No,,,Yes,2,Moderate
+[Eubacterium] ventriosum group,-4.469731502,0.003111317,0.011125316,Yes,No,,,Yes,2,Moderate
+Eggerthella,-5.257136614,0.003796591,0.013176405,Yes,No,,,Yes,2,Moderate
+Coriobacteriaceae UCG-003,-6.334654319,0.008584578,0.026657373,Yes,No,,,Yes,2,Moderate
+DTU089,-3.369180656,0.010012383,0.029536529,Yes,No,,,Yes,2,Moderate
+Lachnospiraceae UCG-010,-3.462970237,0.014159392,0.038856006,Yes,No,,,Yes,2,Moderate
+CAG-352,-6.95858759,0.015597868,0.040369733,Yes,No,,,No,1,Low
+Fusicatenibacter,-4.182074313,0.015737353,0.040369733,Yes,No,,,Yes,2,Moderate
+Enterocloster,-3.480889404,0.018343251,0.046053268,Yes,No,,,Yes,2,Moderate
+Candidatus Soleaferrea,-3.706781456,0.024111623,0.056903429,No,No,,,Yes,1,Low
+Enteroscipio,-5.949148586,0.026220134,0.060666193,No,No,,,Yes,1,Low
+Coprobacillus,-4.998102295,0.036099636,0.080372774,No,No,,,Yes,1,Low
+Anaerotruncus,-4.856052254,0.040709783,0.085781328,No,No,,,No,0,Low
+UCG-005,-4.280964927,0.043652762,0.090368876,No,No,,,No,0,Low
+Lachnospiraceae FE2018 group,5.834508748,0.049362503,0.098725006,No,No,,,No,0,Low
+Lachnospiraceae ND3007 group,5.838715389,0.049194834,0.098725006,No,No,,,No,0,Low

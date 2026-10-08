@@ -1,0 +1,7 @@
+*.fastq
+*.fastq.gz
+*.sra
+.Rhistory
+.RData
+.Rproj.user/
+.ipynb_checkpoints/

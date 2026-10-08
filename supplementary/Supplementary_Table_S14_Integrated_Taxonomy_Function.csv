@@ -1,0 +1,78 @@
+Genus,Phylum,Family,log2FoldChange,padj,Pathway,Rho,FDR
+ASF356,Bacillota,Lachnospiraceae,-6.4603455422082,8.11586705710478e-07,Lipopolysaccharide biosynthesis,0.8217908599975133,6.602041124524898e-05
+ASF356,Bacillota,Lachnospiraceae,-6.4603455422082,8.11586705710478e-07,Peptidoglycan biosynthesis,-0.6896536687930926,0.004637554869265366
+Acidaminococcus,Bacillota,Acidaminococcaceae,-24.9547471543882,1.00574321196766e-24,,,
+Anaerostipes,Bacillota,Lachnospiraceae,-3.7684666413774,0.0388560064624528,Lipopolysaccharide biosynthesis,0.6976410455185149,0.0014359343344706812
+Anaerostipes,Bacillota,Lachnospiraceae,-3.7684666413774,0.0388560064624528,Peptidoglycan biosynthesis,-0.7011910528229797,0.0036561190196212454
+Anaerotignum,Bacillota,Lachnospiraceae,-8.87892687832281,2.63000420905949e-07,Lipopolysaccharide biosynthesis,0.8162529118071741,7.498738598585295e-05
+Bacteroides,Bacteroidota,Bacteroidaceae,-4.33616648315769,0.0403105804549592,Lipopolysaccharide biosynthesis,0.8063403985614525,7.949066305524572e-05
+Bacteroides,Bacteroidota,Bacteroidaceae,-4.33616648315769,0.0403105804549592,Peptidoglycan biosynthesis,-0.7772167716444872,0.0015130753923756706
+Bifidobacterium,Actinomycetota,Bifidobacteriaceae,-4.48172255104587,0.0241173350517101,Lipopolysaccharide biosynthesis,0.8560841702929664,1.8107049326342386e-05
+Bifidobacterium,Actinomycetota,Bifidobacteriaceae,-4.48172255104587,0.0241173350517101,Peptidoglycan biosynthesis,-0.6848162826152705,0.004884490650979659
+CAG-352,Bacillota,Ruminococcaceae,-6.95858758962685,0.0403697327321748,,,
+Colidextribacter,Bacillota,Oscillospiraceae,-5.38957987219504,0.0010803631161449,Lipopolysaccharide biosynthesis,0.7630759651307596,0.00030896611594863165
+Colidextribacter,Bacillota,Oscillospiraceae,-5.38957987219504,0.0010803631161449,Peptidoglycan biosynthesis,-0.6403858164709698,0.010676487511938238
+Coprobacter,Bacteroidota,Barnesiellaceae,-5.86683433214309,0.0206711008387549,,,
+Coprococcus,Bacillota,Lachnospiraceae,22.6027519542161,2.71532911619275e-13,,,
+Coriobacteriaceae UCG-003,Actinomycetota,Atopobiaceae,-6.33465431913247,0.0266573728307303,Peptidoglycan biosynthesis,-0.6482113158200065,0.009419090249801691
+DTU089,Bacillota,Ruminococcaceae,-3.36918065559232,0.0295365292218274,Lipopolysaccharide biosynthesis,0.7008094645080946,0.0013553765244277104
+DTU089,Bacillota,Ruminococcaceae,-3.36918065559232,0.0295365292218274,Peptidoglycan biosynthesis,-0.5597446395820329,0.02879347319941829
+Dialister,Bacillota,Veillonellaceae,-26.6726204928456,1.63494184540047e-27,Peptidoglycan biosynthesis,-0.7316431266812101,0.0027338905232562887
+Dorea,Bacillota,Lachnospiraceae,-10.8233878302339,3.4709544051992e-12,Lipopolysaccharide biosynthesis,0.7323633585243157,0.0006714307178417739
+Dorea,Bacillota,Lachnospiraceae,-10.8233878302339,3.4709544051992e-12,Peptidoglycan biosynthesis,-0.7929913703315401,0.0015130753923756706
+Eggerthella,Actinomycetota,Eggerthellaceae,-5.25713661400652,0.0131764050271307,Lipopolysaccharide biosynthesis,0.5780959905138013,0.015231354249085515
+Enterocloster,Bacillota,Lachnospiraceae,-3.4808894044202,0.046053268173068,Lipopolysaccharide biosynthesis,0.8069545192001132,7.949066305524572e-05
+Enterocloster,Bacillota,Lachnospiraceae,-3.4808894044202,0.046053268173068,Peptidoglycan biosynthesis,-0.662593380190522,0.007061028563607547
+Escherichia-Shigella,Pseudomonadota,Enterobacteriaceae,-9.56136883301423,2.69041902671931e-12,Lipopolysaccharide biosynthesis,0.9003583747544074,1.6642127714272002e-06
+Escherichia-Shigella,Pseudomonadota,Enterobacteriaceae,-9.56136883301423,2.69041902671931e-12,Peptidoglycan biosynthesis,-0.6703457795530412,0.006193468267229459
+Faecalibacterium,Bacillota,Ruminococcaceae,-4.10634862781436,0.049252767924055,Lipopolysaccharide biosynthesis,0.7529119029979747,0.0004017374543944572
+Faecalicatena,Bacillota,Lachnospiraceae,-9.85532682416299,5.10562414688e-15,Lipopolysaccharide biosynthesis,0.8027825902982648,8.358757428415644e-05
+Faecalicatena,Bacillota,Lachnospiraceae,-9.85532682416299,5.10562414688e-15,Peptidoglycan biosynthesis,-0.6027681672128605,0.017322090885357758
+Flavonifractor,Bacillota,Oscillospiraceae,-5.80391186681897,0.0002821244387529,Lipopolysaccharide biosynthesis,0.7325653798256537,0.0006714307178417739
+Flavonifractor,Bacillota,Oscillospiraceae,-5.80391186681897,0.0002821244387529,Peptidoglycan biosynthesis,-0.7139115953991183,0.002811965912778098
+Fusicatenibacter,Bacillota,Lachnospiraceae,-4.18207431293757,0.0403697327321748,Lipopolysaccharide biosynthesis,0.8122665006226649,7.949066305524572e-05
+Fusicatenibacter,Bacillota,Lachnospiraceae,-4.18207431293757,0.0403697327321748,Peptidoglycan biosynthesis,-0.6225973215689985,0.012991769292009096
+Haemophilus,Pseudomonadota,Pasteurellaceae,-6.00333931959278,0.0046677812490705,Lipopolysaccharide biosynthesis,0.6857952033389818,0.0016712918742892479
+Haemophilus,Pseudomonadota,Pasteurellaceae,-6.00333931959278,0.0046677812490705,Peptidoglycan biosynthesis,-0.7519771824686534,0.0026309977320879835
+Holdemania,Bacillota,Erysipelotrichaceae,-4.9469905338596,0.0010803631161449,Lipopolysaccharide biosynthesis,0.685865504358655,0.0016712918742892479
+Holdemania,Bacillota,Erysipelotrichaceae,-4.9469905338596,0.0010803631161449,Peptidoglycan biosynthesis,-0.7133186455690526,0.002811965912778098
+Klebsiella,Pseudomonadota,Enterobacteriaceae,-6.32784810167273,0.0065057291231206,Lipopolysaccharide biosynthesis,0.7866142063050123,0.00015781618730674183
+Lachnospira,Bacillota,Lachnospiraceae,-4.56549526753514,0.0388560064624528,Lipopolysaccharide biosynthesis,0.6900001900827232,0.0016703647706025624
+Lachnospira,Bacillota,Lachnospiraceae,-4.56549526753514,0.0388560064624528,Peptidoglycan biosynthesis,-0.5629456456552541,0.028743051775757294
+Lachnospiraceae UCG-003,Bacillota,Lachnospiraceae,-9.60213747503722,2.51832590637582e-05,Peptidoglycan biosynthesis,-0.7149329765324095,0.002811965912778098
+Lachnospiraceae UCG-010,Bacillota,Lachnospiraceae,-3.46297023679609,0.0388560064624528,Lipopolysaccharide biosynthesis,0.5252179327521793,0.03241573131595427
+Lachnospiraceae UCG-010,Bacillota,Lachnospiraceae,-3.46297023679609,0.0388560064624528,Peptidoglycan biosynthesis,-0.56152348907223,0.028743051775757294
+Ligilactobacillus,Bacillota,Lactobacillaceae,-8.57263751434533,0.0075639822432289,,,
+Macellibacteroides,Bacteroidota,Tannerellaceae,-23.9529295045786,3.90594900814448e-20,,,
+Massiliprevotella,Bacteroidota,Prevotellaceae,-25.5925415524303,2.96247563386519e-21,Lipopolysaccharide biosynthesis,0.6290178957189101,0.006057356140455238
+Monoglobus,Bacillota,Monoglobaceae,-4.91082979900094,0.0016404027021299,Lipopolysaccharide biosynthesis,0.805726277922792,7.949066305524572e-05
+Monoglobus,Bacillota,Monoglobaceae,-4.91082979900094,0.0016404027021299,Peptidoglycan biosynthesis,-0.6310134662185114,0.011437931654764427
+Oscillospira,Bacillota,Oscillospiraceae,-5.98725194917516,7.41299649082072e-05,Lipopolysaccharide biosynthesis,0.7257160647571607,0.0007656351621230383
+Oscillospira,Bacillota,Oscillospiraceae,-5.98725194917516,7.41299649082072e-05,Peptidoglycan biosynthesis,-0.5289112484186158,0.04582154995748535
+Paeniclostridium,Bacillota,Peptostreptococcaceae,-7.66491121281241,3.27190439488426e-06,Lipopolysaccharide biosynthesis,0.6928636548373279,0.0015911447080726856
+Paeniclostridium,Bacillota,Peptostreptococcaceae,-7.66491121281241,3.27190439488426e-06,Peptidoglycan biosynthesis,-0.5999849170548899,0.017561523885370696
+Paludicola,Bacillota,Ruminococcaceae,-6.09807136467458,0.0203467475641184,,,
+Phocea,Bacillota,Ruminococcaceae,-5.36705126949108,0.0035293772321934,Lipopolysaccharide biosynthesis,0.7553508909978907,0.00038830333743053105
+Phocea,Bacillota,Ruminococcaceae,-5.36705126949108,0.0035293772321934,Peptidoglycan biosynthesis,-0.5697698492895358,0.027246340070506248
+Pseudobutyrivibrio,Bacillota,Lachnospiraceae,-12.5768555078911,4.068441498409821e-19,Lipopolysaccharide biosynthesis,0.7368872553408696,0.0006331569944230217
+Pseudobutyrivibrio,Bacillota,Lachnospiraceae,-12.5768555078911,4.068441498409821e-19,Peptidoglycan biosynthesis,-0.6305232579954346,0.011437931654764427
+Raoultibacter,Actinomycetota,Coriobacteriales Incertae Sedis,-6.11708630434377,0.0077444881281554,Lipopolysaccharide biosynthesis,0.7048694300800611,0.0013285330260481435
+Roseburia,Bacillota,Lachnospiraceae,-5.70280579177796,0.001913961375943,Lipopolysaccharide biosynthesis,0.8235357764439512,6.602041124524898e-05
+Roseburia,Bacillota,Lachnospiraceae,-5.70280579177796,0.001913961375943,Peptidoglycan biosynthesis,-0.5982639258030927,0.017561523885370696
+Segatella,Bacteroidota,Prevotellaceae,24.5360937915151,1.84185328490922e-15,,,
+Sellimonas,Bacillota,Lachnospiraceae,-8.12074290090454,4.32596219956123e-06,Lipopolysaccharide biosynthesis,0.5887398752643431,0.01270990003751564
+Sellimonas,Bacillota,Lachnospiraceae,-8.12074290090454,4.32596219956123e-06,Peptidoglycan biosynthesis,-0.6315952119304737,0.011437931654764427
+Subdoligranulum,Bacillota,Ruminococcaceae,23.544398239114,2.29421162137628e-14,,,
+Sutterella,Pseudomonadota,Sutterellaceae,-9.76158955428174,5.20887579157213e-13,Lipopolysaccharide biosynthesis,0.8617683686176837,1.8107049326342386e-05
+Sutterella,Pseudomonadota,Sutterellaceae,-9.76158955428174,5.20887579157213e-13,Peptidoglycan biosynthesis,-0.7388154882618782,0.0027338905232562887
+Thomasclavelia,Bacillota,Erysipelatoclostridiaceae,-5.00913335949701,0.0295365292218274,Peptidoglycan biosynthesis,-0.6794253215374858,0.005239054780057713
+Unclassified,,,5.23043269471372,1.2429589649262e-12,,,
+Veillonella,Bacillota,Veillonellaceae,-4.01718239922585,0.0464306564448929,Lipopolysaccharide biosynthesis,0.7639660744938667,0.00030896611594863165
+Veillonella,Bacillota,Veillonellaceae,-4.01718239922585,0.0464306564448929,Peptidoglycan biosynthesis,-0.6041120580201318,0.017322090885357758
+[Clostridium] innocuum group,Bacillota,Erysipelotrichaceae,-7.22366883448241,2.99668469594227e-07,Lipopolysaccharide biosynthesis,0.7026774595267746,0.0013285330260481435
+[Clostridium] innocuum group,Bacillota,Erysipelotrichaceae,-7.22366883448241,2.99668469594227e-07,Peptidoglycan biosynthesis,-0.7305141906409581,0.0027338905232562887
+[Eubacterium] eligens group,Bacillota,Lachnospiraceae,-6.99197625876133,0.0001228253732754,Lipopolysaccharide biosynthesis,0.6348069738480697,0.005455515796788143
+[Eubacterium] eligens group,Bacillota,Lachnospiraceae,-6.99197625876133,0.0001228253732754,Peptidoglycan biosynthesis,-0.7222128930200382,0.002811965912778098
+[Eubacterium] ventriosum group,Bacillota,Lachnospiraceae,-4.46973150196859,0.0111253158416545,Lipopolysaccharide biosynthesis,0.7283470774515481,0.000733104329027
+[Ruminococcus] gnavus group,Bacillota,Lachnospiraceae,-7.13457092189246,2.86364884153332e-07,Lipopolysaccharide biosynthesis,0.838274671771807,4.0344895480451305e-05
+[Ruminococcus] gnavus group,Bacillota,Lachnospiraceae,-7.13457092189246,2.86364884153332e-07,Peptidoglycan biosynthesis,-0.5713625176047132,0.027246340070506248

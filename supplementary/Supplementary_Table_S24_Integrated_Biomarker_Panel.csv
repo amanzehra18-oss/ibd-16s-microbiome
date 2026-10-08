@@ -1,0 +1,6 @@
+Biomarker_Rank,Genus,DESeq2_significant,padj,DESeq2_Rank,Mean_Importance,ML_Rank,AUC,AUC_95CI_Lower,AUC_95CI_Upper,ROC_Rank,Composite_Rank_Score,Mean_Evidence_Rank,Sensitivity,Specificity,Direction
+1,Segatella,Yes,0.0,1.0,0.073757,1.0,1.0,1.0,1.0,1.0,3.0,1.0,1.0,1.0,Higher abundance → IBD
+2,Sellimonas,Yes,4e-06,2.0,0.068699,2.0,0.9917,0.95,1.0,2.0,6.0,2.0,0.9091,1.0,Lower abundance → IBD
+3,Paludicola,Yes,0.020347,4.0,0.050991,3.0,0.9835,0.9231,1.0,3.0,10.0,3.33,0.9091,1.0,Lower abundance → IBD
+4,Bifidobacterium,Yes,0.024117,5.0,0.04855,4.0,0.9669,0.8803,1.0,4.0,13.0,4.33,0.9091,0.9091,Lower abundance → IBD
+5,Flavonifractor,Yes,0.000282,3.0,0.035823,5.0,0.8926,0.7232,1.0,5.0,13.0,4.33,0.8182,1.0,Lower abundance → IBD

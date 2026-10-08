@@ -1,0 +1,2 @@
+method name,test statistic name,sample size,number of groups,test statistic,p-value,number of permutations
+PERMANOVA,pseudo-F,22,2,6.124531018387921,0.0002,9999
