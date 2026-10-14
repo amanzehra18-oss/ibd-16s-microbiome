@@ -15,8 +15,8 @@ errF <- learnErrors(filtFs, multithread = TRUE)
 dadaFs <- dada(filtFs, err = errF, multithread = TRUE)
 seqtab <- makeSequenceTable(dadaFs)
 seqtab.nochim <- removeBimeraDenovo(seqtab, method = "consensus", multithread = TRUE)
-taxa <- assignTaxonomy(seqtab.nochim, "silva_nr99_v138_train_set.fa.gz",  # [CHECK] database
-                       multithread = TRUE)
+taxa <- assignTaxonomy(seqtab.nochim, "silva_nr99_v138.2_toGenus_trainset.fa.gz",  # SILVA 138.2
+                       multithread = TRUE, tryRC = TRUE)   # tryRC: nine IBD samples are reverse-oriented (see 01b)
 write.csv(t(seqtab.nochim), "ASV_table.csv")
 write.csv(taxa, "taxonomy.csv")
 # ASV_table.csv + a FASTA of the ASV sequences were then run through PICRUSt2 on

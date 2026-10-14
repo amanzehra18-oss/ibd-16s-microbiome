@@ -9,7 +9,7 @@ Predicted Pathways, and Candidate Biomarkers in Inflammatory Bowel Disease"* (pr
 
 ## Data
 - Raw reads (NCBI SRA): IBD `SRR33757848-SRR33757858`, healthy controls `SRR37842383-SRR37842393`.
-- Supplementary Tables S1-S32 (incl. S8b, S27b) are provided with the manuscript (Supplementary_Data_Updated_v7.zip); extract them into `supplementary/`.
+- Supplementary Tables S1-S32 (incl. S8b, S27b) are provided with the manuscript (Supplementary_Data_1_v8, already included in `supplementary/`).
 - External validation: 43 stool samples (23 Crohn's disease, 20 controls) from the MicrobiomeAnalyst example
   dataset `ibd_data.zip` (https://www.microbiomeanalyst.ca/MicrobiomeAnalyst/resources/data/ibd_data.zip).
 
@@ -28,14 +28,16 @@ Predicted Pathways, and Candidate Biomarkers in Inflammatory Bowel Disease"* (pr
 | `python/diversity_bracken.py` | Alpha/beta diversity and PERMANOVA for all 22 samples. |
 | `R/` | R scripts, see status below. |
 | `cytoscape/` | Cytoscape sessions (.cys) and network files (.xgmml) for Figures 5C and 7B. |
-| `supplementary/` | Supplementary Tables S1-S32. |
+| `supplementary/` | Supplementary Tables S1-S32 (v8, corrected genus taxonomy). |
+| `genus_counts.csv`, `data/` | Genus count table and ASV taxonomy (SILVA 138.2, tryRC) used by `R/04` and `R/05`. |
+| `python/` | Diversity script plus the Python taxonomy classifier (RDP naive-Bayes re-implementation) used to cross-check the tryRC taxonomy. |
 | `recovered_original_R/` | Command histories recovered from the original RStudio sessions (kept for transparency). |
 
 ## Status of the R scripts - please read
-The original R working files were lost. Scripts `R/01`, `R/04` and `R/05` are **reconstructions** written to reproduce
-the reported steps; they have not been re-run against the original data in an R session. Reference values to check
-against: 175 genera tested and 49 significant (DESeq2); 95 significant correlations (59 LPSSYN-PWY, 36 PEPTIDOGLYCANSYN-PWY).
-Scripts `R/03` and `R/06` are cleaned versions of recovered original commands. Parameters marked `[CHECK]` must be confirmed.
+The original R working files were lost. Scripts `R/01`, `R/04` and `R/05` are **reconstructions**. In v1.1 the genus taxonomy was
+re-assigned with `tryRC = TRUE` (`R/01b`) because the ASVs of nine IBD samples are reverse-oriented and had received no genus; the
+genus-level tables (S3, S10-S14, S20, S24-S28, S27b) were regenerated from the corrected taxonomy. DESeq2 (`R/04`) was run in R on the corrected genus table (output in `data/DESeq2_All_Genera_R_output.csv`): 186 genera tested, 44 significant (12 higher, 32 lower in IBD). `R/05_correlation_network.R` reference: 84 significant correlations (47 LPSSYN-PWY, 37 PEPTIDOGLYCANSYN-PWY). Scripts `R/03` and `R/06` are cleaned versions of recovered original commands.
+Parameters marked `[CHECK]` must be confirmed.
 
 ## Software
 Python 3 (see `requirements.txt`); R with dada2, phyloseq, DESeq2, vegan, ggplot2, dplyr, readr; Cytoscape 3.10.3;
