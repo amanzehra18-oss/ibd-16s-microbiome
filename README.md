@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23359812.svg)](https://doi.org/10.5281/zenodo.23359812)
 # Integrated 16S rRNA bioinformatics analysis of gut microbiota, predicted pathways and candidate biomarkers in IBD
 
 Code accompanying the manuscript *"Integrated 16S rRNA Bioinformatics Analysis of Gut Microbiota,
