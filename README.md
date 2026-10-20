@@ -1,8 +1,13 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23359812.svg)](https://doi.org/10.5281/zenodo.23359812)
 # Integrated 16S rRNA bioinformatics analysis of gut microbiota, predicted pathways and candidate biomarkers in IBD
 
-Code accompanying the manuscript "Integrated 16S rRNA Bioinformatics Analysis of Gut Microbiota, Predicted Pathways, and Candidate Biomarkers in Inflammatory Bowel Disease" (preprint: [link to be added]).
+Code accompanying the preprint "Integrated 16S rRNA Bioinformatics Analysis of Gut Microbiota, Predicted Pathways, and Candidate Biomarkers in Inflammatory Bowel Disease".
 
+## Preprint
+This work is available as a preprint on bioRxiv (not yet peer-reviewed):
+
+**Integrated 16S rRNA Bioinformatics Analysis of Gut Microbiota, Predicted Pathways, and Candidate Biomarkers in Inflammatory Bowel Disease**
+Aman Zehra et al. bioRxiv 2026. doi: [10.64898/2026.10.16.759573](https://doi.org/10.64898/2026.10.16.759573)
 > **Exploratory study.** 22 public stool 16S samples (11 IBD, Shanghai; 11 healthy, Singapore). The group is confounded with source cohort, and pathways are PICRUSt2 predictions. Results are hypothesis-generating.
 
 ## Pipeline overview
